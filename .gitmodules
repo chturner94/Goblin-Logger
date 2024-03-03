@@ -1,3 +1,3 @@
 [submodule "GoblinCLI"]
-	path = GoblinCLI
+	path = pkg/GoblinCLI
 	url = https://github.com/chturner94/GoblinCLI.git
